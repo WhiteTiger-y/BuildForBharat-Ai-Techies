@@ -1,1 +1,1 @@
-# BuildForBharat-Ai-Techies
+# BuildForBharat AI Techies
