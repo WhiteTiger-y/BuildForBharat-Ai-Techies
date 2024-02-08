@@ -31,7 +31,8 @@ languages = {
     19: "ne",
     20: "sat",
     21: "gu",
-    22: "or"
+    22: "or",
+    23: "en"
 }
 
 
@@ -60,7 +61,8 @@ async def root():
         19: "Nepali",
         20: "Santali",
         21: "Gujarati",
-        22: "Odia"
+        22: "Odia",
+        23: "English"
     }
 
 
